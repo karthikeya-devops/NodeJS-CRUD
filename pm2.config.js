@@ -1,7 +1,7 @@
 module.exports = {
     apps: [
       {
-        name: "sample-react-app", 
+        name: "test_app", 
         script: "npm",
         args: "run start", 
         instances: 1,
